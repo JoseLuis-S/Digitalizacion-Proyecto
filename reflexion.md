@@ -1,1 +1,5 @@
+# Reflexión final
 
+Es cierto que actualmente todas las empresas están sufriendo un proceso de digitalización de la empresa, ya que esta se ha convertido en un elemento clave para mantener la competitividad en un mercado mundial y continuamente evolucionando. Dicho proceso, involucra no solo la acogida de nuevas tecnologías, si no también un nuevo cambio cultural que permite que las nuevas herramientas nos ayuden a emerger nuevos procesos de negocio mñas efectivos.
+
+La digitalización recoge desde la implementación de sistemas de gestión empresarial y plataformas de comercio electrónico hasta el uso de IAs, análisis de datos de manera masiva mediante Big Data y soluciones en la nube entre otras. Además, esto es un incentivo para la creación de nuevos modelos de negocio que mejoran la experiencia del cliente y mejora la eficiencia. Pero, este cambio tambien posee retos importantes, como el deber de formar al personal sobre los nuevos cambios en la empresa, innovar en la ciberseguridad y mantener la sostenibilidad en un entorno tecnológico en constante cambio.
